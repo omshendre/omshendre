@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om Shendre</h1>
 <h3 align="center">A passionate web development enthusiast from India</h3>
 
-- 💬 Feel free to ask me about various web development technologies.
+- 💬 Feel free to ask me about web development.
 
 - 📫 How to reach me **omshendre20@gmail.com**
 
