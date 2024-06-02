@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Om Shendre</h1>
-<h3 align="center">A passionate frontend and Machine learning enthusiast from India</h3>
+<h3 align="center">A passionate web development enthusiast from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://omshendre-portfolio.netlify.app/](https://omshendre-portfolio.netlify.app/)
 
-- 💬 Ask me about **ReactJS, Machine Learning**
+- 💬 Feel free to ask me about various web development technologies.
 
 - 📫 How to reach me **omshendre20@gmail.com**
 
